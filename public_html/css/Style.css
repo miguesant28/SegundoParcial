@@ -8,3 +8,62 @@ and open the template in the editor.
     Author     : 00140418
 */
 
+#cabecera{
+    font-family: Brush Script MT;
+    text-align: center;
+    color: #CD6155;
+    font-size:  55px;
+}
+ul il{
+    list-style-type: none;
+    background: #CD6155;
+    display: inline;
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+    font-size: 16px;
+    font-family: Cooper Black;
+}
+#menu{
+    text-align: center;
+}
+img{
+    border-radius: 10px
+}
+#cuerpo{
+    text-align: center;
+}
+#parrafo{
+    text-align: center;
+    font-family: Cooper Black;
+    
+}
+#pie{
+    text-align: center;
+    background: #CD6155;
+    
+}
+h1{
+    text-align: center;
+    font-family: Cooper Black;
+    
+}
+form{
+    font-family: Cooper Black;
+    margin: 1em;
+    width:700px;
+    background:#CD6155;
+    padding: 15px;
+    border-radius: 2px;
+}
+a:hover{
+    color: red;
+    font-size:20px;
+    text-decoration: underline;
+}
+label{
+    font-family: Cooper Black;
+    width: 150px;
+    text-align: right;
+    display: inline;
+}
